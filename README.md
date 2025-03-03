@@ -1,8 +1,8 @@
-# Horizon - CS2 Configuration Tool (English/中文)
+# Fan_Horizon - CS2 Configuration Tool (English/中文)
 
 ## English
 
-**Horizon** is a user-friendly configuration tool designed to simplify the process of customizing your Counter-Strike 2 (CS2) settings. This repository contains the **open-source** `horizon.py` script, which provides a basic graphical interface for managing your CS2 configuration files.
+**Fan_Horizon** is a user-friendly configuration tool designed to simplify the process of customizing your Counter-Strike 2 (CS2) settings. This repository contains the **open-source** `horizon.py` script, which provides a basic graphical interface for managing your CS2 configuration files.
 
 **Features of the open-source `horizon.py`:**
 
@@ -27,7 +27,7 @@ The open-source part of it (`horizon.py`) is licensed under the MIT License (see
 
 ## 中文
 
-**Horizon** 是一款易于使用的 CS2 配置工具，旨在简化您自定义 Counter-Strike 2 (CS2) 设置的过程。本仓库包含 Horizon 项目的**开源**部分，特别是 `horizon.py` 脚本，它提供了一个基本的图形界面来管理您的 CS2 配置文件。
+**Fan_Horizon** 是一款易于使用的 CS2 配置工具，旨在简化您自定义 Counter-Strike 2 (CS2) 设置的过程。本仓库包含 Horizon 项目的**开源**部分，特别是 `horizon.py` 脚本，它提供了一个基本的图形界面来管理您的 CS2 配置文件。
 
 **开源 `horizon.py` 的功能：**
 
@@ -38,7 +38,7 @@ The open-source part of it (`horizon.py`) is licensed under the MIT License (see
 
 **下载完整版：**
 
-Horizon 完整版包含更多功能，例如：
+Fan_Horizon 完整版包含更多功能，例如：
 
 *   高级功能设置（例如，自动急停、连跳、HUD 颜色自定义）。
 *   按键绑定自定义。
