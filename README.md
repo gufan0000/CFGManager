@@ -23,7 +23,7 @@ You can download the full version from the [Releases](https://github.com/gufan00
 
 **License:**
 
-The open-source part of Horizon (`horizon.py`) is licensed under the MIT License (see the [LICENSE](LICENSE) file).
+The open-source part of it (`horizon.py`) is licensed under the MIT License (see the [LICENSE](LICENSE) file).
 
 ## 中文
 
@@ -47,4 +47,4 @@ Horizon 完整版包含更多功能，例如：
 您可以从本仓库的 [Releases](https://github.com/gufan0000/CFGManager/releases) 部分下载完整版。
 **许可证：**
 
-Horizon 的开源部分 (`horizon.py`) 在 MIT 许可证下获得许可（请参阅 [LICENSE](LICENSE) 文件）。
+开源部分 (`horizon.py`) 在 MIT 许可证下获得许可（请参阅 [LICENSE](LICENSE) 文件）。
